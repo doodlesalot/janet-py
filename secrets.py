@@ -1,0 +1,5 @@
+zendesk_user = 'your@email.com'
+zendesk_token = 'yourzdtokenhere'
+viewid = '123456789'
+zendesk_subdomain = 'your-sub-domain'
+slack_webhook = 'webhookurlhere'
