@@ -4,7 +4,7 @@ psutil==5.2.2
 pycparser==2.18
 pycrypto==2.6.1
 pycurl==7.43.0
-pyOpenSSL==17.0.0
+pyOpenSSL==17.5.0
 pyparsing==2.2.0
 pytest==3.2.1
 python-dateutil==2.6.1
